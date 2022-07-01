@@ -1,3 +1,3 @@
 # mapify
 
-http://url/to/img.png
+http://C:\Users\pc\Pictures\OpenBoard/img.png
